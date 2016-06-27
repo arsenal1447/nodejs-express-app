@@ -7,10 +7,10 @@
 	express -V
 
 
-![](https://github.com/zxx1988328/nodejs-mysql/blob/master/img/express_version.png)
+![](https://github.com/zxx1988328/nodejs-express-app/blob/master/img/express_version.png)
 
 ## 创建一个新项目
 
 	express testWebApp
 
-![](https://github.com/zxx1988328/nodejs-mysql/blob/master/img/new_project.png)
+![](https://github.com/zxx1988328/nodejs-express-app/blob/master/img/new_project.png)
